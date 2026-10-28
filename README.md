@@ -70,6 +70,7 @@ The objective of this project is to apply core business and finance tools to rea
 - Structured interviews (including a 32-question written interview), audio recording and direct observation
 - Explicit assumption logging; ranges and caveats where data was unclear
 - Bilingual (English and Russian) case write-ups
+- Methodology and findings were reviewed and validated by the school's economics faculty advisor to ensure analytical rigor and academic integrity.
 
 AI tools were used to help structure and refine the analysis in Case 1, as disclosed in that case study.
 
