@@ -58,6 +58,8 @@ Supporting questions:
 
 **Evidence base.** Structured interviews with the business ownership, including an audio-recorded owner interview; direct observation of point-of-sale behaviour; and internal operating data for the 2025–2026 cycle (rent, payroll, margin structure and seasonal sales volumes). The author had first-hand access to the business through a personal connection with its ownership, which the case study discloses for transparency and which readers should weigh as a possible source of bias.
 
+**Validation.** Methodology and findings were reviewed and validated by the school's economics faculty advisor to ensure analytical rigor and academic integrity.
+
 ---
 
 ## Key Findings & Analysis
