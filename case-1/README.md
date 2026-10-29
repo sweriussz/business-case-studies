@@ -58,6 +58,8 @@ A fifth, data-quality question emerged during the work: the three headline figur
 
 **Evidence base.** A structured written interview with the owner (32 questions on business model, unit economics, costs, sales channels and risks) and a few follow-up figures. Where data was unclear or did not tie, the case states the assumption used.
 
+**Validation.** Methodology and findings were reviewed and validated by the school's economics faculty advisor to ensure analytical rigor and academic integrity.
+
 ---
 
 ## Key Findings & Analysis
